@@ -1,0 +1,4 @@
+
+Ajaa src hakemistosta kaikki caset ja raportit menee src/Reports hakemistoon
+
+vagrant ssh -c 'pybot --outputdir src/Reports src'
