@@ -2,8 +2,6 @@
 Ajaa src hakemistosta kaikki caset ja raportit menee src/Reports hakemistoon
 ja uusi testi edit
 
-
-
 commit -m testiä
 vagrant ssh -c 'pybot --outputdir src/Reports src'
 
